@@ -1,6 +1,6 @@
-# todo
+# Lembretes
 
-A new Flutter project.
+Projeto em Flutter para um app de Lembretes.
 
 ## Getting Started
 
